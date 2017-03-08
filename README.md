@@ -41,7 +41,7 @@ Convert SCSS to Sass
 sass-convert styles.scss styles.sass
 </code>
 
---belki buda bir şeye yarar--
+--belki buda bir şeye yarar
 http://www.lenashore.com/2013/07/setting-up-sass-and-compiling-the-code-with-dreamweaver/
 
 -- rubyinstaller
