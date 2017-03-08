@@ -58,7 +58,7 @@ http://www.lenashore.com/2013/07/setting-up-sass-and-compiling-the-code-with-dre
 --kkkkk https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_grid_stacked_to_hor&stacked=h
 
 or
-*//<!DOCTYPE html>
+<code><!DOCTYPE html> !!!
 <html lang="en">
 <head>
 <title>Bootstrap Example</title>
@@ -87,10 +87,10 @@ or
     
 </body>
 </html>
-*//
+</code>
 
 or 
-
+<code>
 <div class="container">
   <h1>Grid</h1>
   <p>This example demonstrates a 50%/50% split on small, medium and large devices. On extra small devices, it will stack (100% width).</p>      
@@ -106,7 +106,7 @@ or
   </div>
 </div>
 
-
+</code>
 
 http://www.guncelfiyatlari.com/sigara-fiyatlari/
 http://www.guncelfiyatlari.com/viski-fiyatlari/
