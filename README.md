@@ -49,6 +49,9 @@ http://www.lenashore.com/2013/07/setting-up-sass-and-compiling-the-code-with-dre
 
 -- gradient http://angrytools.com/gradient/
 
+-- gridsystem https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp
+
+---buda şöyle klasın https://www.w3schools.com/cssref/css3_pr_grid-columns.asp
 
 http://www.guncelfiyatlari.com/sigara-fiyatlari/
 http://www.guncelfiyatlari.com/viski-fiyatlari/
