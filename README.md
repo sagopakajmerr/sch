@@ -19,9 +19,13 @@ yradmıcı lniker
 yardımcı kodlar--
 <code>gem install sass
 </code>
+
 <code>sass styles.scss styles.css</code>
+
 <code>sass --watch styles.scss:styles.css</code>
+
 <code>sass --watch assets/sass:public/css</code>
+
 <code>
 Converting Files from SCSS to Sass & Vice Versa
 # Convert Sass to SCSS
@@ -30,5 +34,6 @@ sass-convert styles.sass styles.scss
 # Convert SCSS to Sass
 sass-convert styles.scss styles.sass
 </code>
+
 http://www.guncelfiyatlari.com/sigara-fiyatlari/
 http://www.guncelfiyatlari.com/viski-fiyatlari/
