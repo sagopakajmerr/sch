@@ -25,9 +25,11 @@ yardımcı kodlar--
 <code>sass --watch styles.scss:styles.css</code>
 
 <code>sass --watch assets/sass:public/css</code>
+
 ----belki lazım olur----
 Converting Files from SCSS to Sass & Vice Versa
 Convert Sass to SCSS
+
 <code>
 sass-convert styles.sass styles.scss
 </code>
