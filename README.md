@@ -29,8 +29,8 @@ yardımcı kodlar--
 ----belki lazım olur----
 
 Converting Files from SCSS to Sass & Vice Versa
-Convert Sass to SCSS
 
+Convert Sass to SCSS
 <code>
 sass-convert styles.sass styles.scss
 </code>
