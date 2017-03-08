@@ -16,7 +16,8 @@ yradmıcı lniker
 -
 -
 -
-yardımcı kodlar--
+yardımcı komutlar--
+
 <code>gem install sass
 </code>
 
