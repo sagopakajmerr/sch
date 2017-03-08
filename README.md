@@ -1,6 +1,6 @@
 # sch ümit hw
 -
--link(ana)
+link(ana)
 -
 http://learn.shayhowe.com/advanced-html-css/preprocessors/
 -
