@@ -48,5 +48,7 @@ http://www.lenashore.com/2013/07/setting-up-sass-and-compiling-the-code-with-dre
 <link>http://rubyinstaller.org</link>
 
 -- gradient http://angrytools.com/gradient/
+
+
 http://www.guncelfiyatlari.com/sigara-fiyatlari/
 http://www.guncelfiyatlari.com/viski-fiyatlari/
